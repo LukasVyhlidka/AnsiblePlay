@@ -1,6 +1,7 @@
 Ansible Demo
 ====================
 
+This repo was created as a support for the Ansible EDU session.
 
 In this demo you can find:
 
